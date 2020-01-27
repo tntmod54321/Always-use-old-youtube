@@ -7,4 +7,5 @@ Youtube+: https://github.com/ParticleCore/Particle
   
 Basically all the code does is paste the value "f5=30030&f1=50000000&f6=43418&al=en&cvdm=grid" into the cookie "PREF"
   
-  Known bug: If you visit a youtube channel sometimes the page will refresh continuously for a while until it figures itself out, I don't know how to fix it because I'm not a programmer. (but it doesn't happen often)
+  Known bug: If you visit a youtube channel or the history page sometimes the page will refresh continuously for a while until it figures itself out, I don't know how to fix it because I'm not a programmer. (but it doesn't happen often)  
+And this bug can be avoided if you access the page from an existing not bugging out page (e.g. instead of directly visiting https://youtube.com/feed/history, you go to youtube.com then click the history tab.)
