@@ -8,6 +8,9 @@
 // @exclude         *://www.youtube.com/tv*
 // @exclude         *://www.youtube.com/embed/*
 // @exclude         *://www.youtube.com/live_chat*
+// @exclude         *://www.youtube.com/feed/history*
+// @exclude         *://www.youtube.com/user*
+// @exclude         *://www.youtube.com/channel*
 // @run-at          document-start
 // @grant           GM_getValue
 // @grant           GM_setValue
