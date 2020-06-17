@@ -1,3 +1,4 @@
+# RIP IT DOESN'T FUCKING WORK ANYMORE THANKS YOUTUBE
 # Always-use-old-youtube
 A userscript for Tamper/Violent/Grease monkey to use old youtube
 
